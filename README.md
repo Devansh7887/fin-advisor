@@ -146,9 +146,10 @@ cd GENAIFORGENZ
 ### Backend Setup 
 cd backend
 npm install
-npm run start:dev  # Development with auto-reload
-# OR
-npm start          # Production mode
+### Development with auto-reload
+npm run start:dev  
+# OR Production mode
+npm start          
 
 ### Frontend Setup
 cd frontend
