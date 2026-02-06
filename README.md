@@ -2,14 +2,14 @@
 
 <div align="center">
 
-**Built for GenAI4GenZ Program 2026**
+**Built for GenAI4GenZ Program 2025**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-14.1-black)
 ![NestJS](https://img.shields.io/badge/NestJS-10.3-red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 
-*An experimental AI-driven platform focused on intelligent financial assistance for Gen Z users*
+*An experimental AI-driven platform focused on intelligent financial assistance*
 
 [Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Architecture](#architecture) • [Contributing](#contributing)
 
